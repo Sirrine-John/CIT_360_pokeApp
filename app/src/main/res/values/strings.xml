@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokeConnect</string>
+    <string name="title_pokedex">Previous</string>
+    <string name="title_search">Search</string>
+</resources>
